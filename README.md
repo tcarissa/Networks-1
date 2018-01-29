@@ -45,7 +45,5 @@ Lawrences-MacBook-Pro:Networks lawrencejones$ ls
 02-04.md				04-05.md				06-cybersecurity-crime.md
 02-05.md				04-http-html.md				README.md
 02-ip-addresses-dns.md			05-01.md
-
-
 ```
 When you try to edit a file, you will be prompted to "fork" the file or repository. Do that, then you will be prompted to propose changes. Make your changes and then create a pull request. Github will then try to check to see if there are merge conflicts. (There should not be any, unless someone else accidentally tries to update your file.) Keep going until you click through all the steps. I will get your pull request, then I will confirm the changes and then merge them into the repository.
