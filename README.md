@@ -6,7 +6,7 @@ collaborate.
 
 When you get into class, you will pull a number out of a bag to determine your group.
 
-*Group 1 has 6 students, and the remaining 5 groups will have 5 students.*
+**Group 1 has 6 students, and the remaining 5 groups will have 5 students.**
 
 Group 1 will discuss the first video, *Wires Cables and WIFI*.
 
