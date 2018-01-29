@@ -29,17 +29,17 @@ Your card will have a number on it that will correspond to one of the files belo
 
 ```
 Lawrences-MacBook-Pro:Networks lawrencejones$ ls
-01-01.md			         	02-05.md				                  04-04.md
-01-02.md			        	02-ip-addresses-dns.md			      04-05.md
-01-03.md				        03-01.md			                  	04-http-html.md
-01-04.md			        	03-02.md			                  	05-01.md
-01-05.md				        03-03.md		                  		05-02.md
-01-06.md			        	03-04.md			                  	05-03.md
-01-wires-cables-wifi.md	03-05.md		                  		05-04.md
-02-01.md			        	03-packets-routers-reliability.md	05-05.md
-02-02.md			        	04-01.md				                  05-encryption-keys.md
-02-03.md				        04-02.md				                  06-cybersecurity-crime.md
-02-04.md				        04-03.md				                  README.md
+01-01.md				02-05.md				04-04.md
+01-02.md				02-ip-addresses-dns.md			04-05.md
+01-03.md				03-01.md				04-http-html.md
+01-04.md				03-02.md				05-01.md
+01-05.md				03-03.md				05-02.md
+01-06.md				03-04.md				05-03.md
+01-wires-cables-wifi.md			03-05.md				05-04.md
+02-01.md				03-packets-routers-reliability.md	05-05.md
+02-02.md				04-01.md				05-encryption-keys.md
+02-03.md				04-02.md				06-cybersecurity-crime.md
+02-04.md				04-03.md				README.md
 
 ```
 
