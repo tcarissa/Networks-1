@@ -8,17 +8,17 @@ When you get into class, you will pull a number out of a bag to determine your g
 
 *Group 1 has 6 students, and the remaining 5 groups will have 5 students.*
 
-Group 1 will discuss the first video, wires cables and wifi.
+Group 1 will discuss the first video, *Wires Cables and WIFI*.
 
-Group 2 will discuss the second video, ip addresses and dns.
+Group 2 will discuss the second video, *IP Addresses and DNS*.
 
-Group 3 will do packets, routers, and reliability.
+Group 3 will do *Packets, Routers, and Reliability*.
 
-Group 4 will review http and html.
+Group 4 will review *HTTP and HTML*.
 
-Group 5 will go over encryption and keys.
+Group 5 will go over *Encryption and Keys*.
 
-Group 6 will discuss cybersecurity and crime.
+Group 6 will discuss *Cybersecurity and Crime*.
 
 Each person will decide on a fact or topic that they find interesting and write a
 very brief one- or two-liner definition, description or thought. If more
