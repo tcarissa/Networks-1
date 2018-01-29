@@ -23,7 +23,9 @@ Group 6 will discuss *Cybersecurity and Crime*.
 Each person will decide on a fact or topic that they find interesting and write a
 very brief one- or two-liner definition, description or thought. If more
 than two students are interested in the same topic, just come up with an different
-angle.
+angle to write about. Don't just duplicate data. You can also Google a term to get more into. If you find a cool link, you can put the link in your write-up. I link in markdown is easy: ```[UNC](http://unc.edu)```
+
+Each of the videos has a transcript link under the video screen; you can glance over that, or you can look at the Networks page and see the list of topics.
 
 Your card will have a number on it that will correspond to one of the files below. You will make your edits to my repository using the file that corresponds with your number.
 I created these files on my mac via the terminal, but you will make changes via the github web interface. This is very easy; I will show you how to do this in class today.
