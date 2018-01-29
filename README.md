@@ -48,4 +48,4 @@ Lawrences-MacBook-Pro:Networks lawrencejones$ ls
 
 
 ```
-When you try to edit a file, you will be prompted to "fork" the file or repository. Do that then you will be prompted to propose changes. Make your changes and then create a pull request. It will then check to see if there are merge conflicts. (There should not be any, unless someone else accidentally tries to update your file.) I will will get your pull request, and I will will merge them into the repository.
+When you try to edit a file, you will be prompted to "fork" the file or repository. Do that, then you will be prompted to propose changes. Make your changes and then create a pull request. It will then check to see if there are merge conflicts. (There should not be any, unless someone else accidentally tries to update your file.) I will get your pull request, and I  will then merge them into the repository.
