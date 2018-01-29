@@ -30,18 +30,22 @@ I created these files on my mac via the terminal, but you will make changes via 
 
 
 ```
+Lawrences-MacBook-Pro:Networks lawrencejones$ touch 06-0{1..5}.md
 Lawrences-MacBook-Pro:Networks lawrencejones$ ls
-01-01.md				02-05.md				04-04.md
-01-02.md				02-ip-addresses-dns.md			04-05.md
-01-03.md				03-01.md				04-http-html.md
-01-04.md				03-02.md				05-01.md
-01-05.md				03-03.md				05-02.md
-01-06.md				03-04.md				05-03.md
-01-wires-cables-wifi.md			03-05.md				05-04.md
-02-01.md				03-packets-routers-reliability.md	05-05.md
-02-02.md				04-01.md				05-encryption-keys.md
-02-03.md				04-02.md				06-cybersecurity-crime.md
-02-04.md				04-03.md				README.md
+01-01.md				03-01.md				05-02.md
+01-02.md				03-02.md				05-03.md
+01-03.md				03-03.md				05-04.md
+01-04.md				03-04.md				05-05.md
+01-05.md				03-05.md				05-encryption-keys.md
+01-06.md				03-packets-routers-reliability.md	06-01.md
+01-wires-cables-wifi.md			04-01.md				06-02.md
+02-01.md				04-02.md				06-03.md
+02-02.md				04-03.md				06-04.md
+02-03.md				04-04.md				06-05.md
+02-04.md				04-05.md				06-cybersecurity-crime.md
+02-05.md				04-http-html.md				README.md
+02-ip-addresses-dns.md			05-01.md
+
 
 ```
 When you try to edit a file, you will be prompted to "fork" the file or repository. Do that then you will be prompted to propose changes. Make your changes and then create a pull request. It will then check to see if there are merge conflicts. (There should not be any, unless someone else accidentally tries to update your file.) I will will get your pull request, and I will will merge them into the repository.
