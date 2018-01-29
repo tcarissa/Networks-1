@@ -1,4 +1,4 @@
-# Wires, Cables and Wifi
+# Wires, Cables, and Wifi
 
 1. 
 2.
