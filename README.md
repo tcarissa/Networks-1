@@ -25,7 +25,9 @@ very brief one- or two-liner definition, description or thought. If more
 than two students are interested in the same topic, just come up with an different
 angle.
 
-Your card will have a number on it that will correspond to one of the files below:
+Your card will have a number on it that will correspond to one of the files below. You will make your edits to my repository using the file that corresponds with your number.
+I created these files on my mac via the terminal, but you will make changes via the github web interface. This is very easy; I will show you how to do this in class today.
+
 
 ```
 Lawrences-MacBook-Pro:Networks lawrencejones$ ls
@@ -42,11 +44,4 @@ Lawrences-MacBook-Pro:Networks lawrencejones$ ls
 02-04.md				04-03.md				README.md
 
 ```
-
-I am actually interfacing with github via mac Terminal.
-
-*(I used the {} brace expansion to quickly create all of these files. It would have taken much more time to do this via the web interface and one at a time.)*
-
-I will demo this; but, you are going to make changes to my github account through the github web interface.
-
-This is very easy; I will show you how to do this in class today.
+When you try to edit a file, you will be prompted to "fork" the file or repository. Do that then you will be prompted to propose changes. Make your changes and then create a pull request. It will then check to see if there are merge conflicts. (There should not be any, unless someone else accidentally tries to update your file.) I will will get your pull request, and I will will merge them into the repository.
